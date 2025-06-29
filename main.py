@@ -9,7 +9,7 @@ api_id = 24720215               # Put your actual API ID
 api_hash = 'c0d3395590fecba19985f95d6300785e'  # Put with your actual API Hash
 bot_token = '8037389280:AAF-M7JAws6kG5G1cn2ZNnxdLKAhVPPLkUU'  # Put with your actual Bot Token
 
-TERA_COOKIE = "Yvi0JX1peHuizy7eil-r2P1kGYGvHB2fDKYU4g79"  # Put with your actual TeraBox cookie
+TERA_COOKIE = "Yvi0JX1peHuiCR4OW1NK3bHkpixf56GJxkur8Cfo"  # Put with your actual TeraBox cookie
 
 TERABOX_DOMAINS = [
     "terabox.com", "1024tera.com", "terasharelink.com", "nephobox.com",
