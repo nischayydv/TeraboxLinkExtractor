@@ -5,11 +5,11 @@ from bs4 import BeautifulSoup
 from telethon import TelegramClient, events, Button
 from config import Config
 
-api_id = 123456               # Put your actual API ID
-api_hash = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # Put with your actual API Hash
-bot_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # Put with your actual Bot Token
+api_id = 24720215               # Put your actual API ID
+api_hash = 'c0d3395590fecba19985f95d6300785e'  # Put with your actual API Hash
+bot_token = '8037389280:AAF-M7JAws6kG5G1cn2ZNnxdLKAhVPPLkUU'  # Put with your actual Bot Token
 
-TERA_COOKIE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  # Put with your actual TeraBox cookie
+TERA_COOKIE = "Yvi0JX1peHuimKDAHhsHkhS3X_0MerqG2AwZNwYb"  # Put with your actual TeraBox cookie
 
 TERABOX_DOMAINS = [
     "terabox.com", "1024tera.com", "terasharelink.com", "nephobox.com",
