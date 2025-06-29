@@ -3,6 +3,7 @@ import aiohttp
 import asyncio
 from bs4 import BeautifulSoup
 from telethon import TelegramClient, events, Button
+from config import Config
 
 api_id = 123456               # Put your actual API ID
 api_hash = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # Put with your actual API Hash
